@@ -26,7 +26,7 @@ while True:
     pyautogui.hotkey("ctrl", "t")
 
     # 打开舆情通
-    pyperclip.copy("http://yuqing.sina.com/staticweb/#/yqmonitor/index/yqpage/edit?funId=3019410")
+    pyperclip.copy("http://yuqing.sina.com/staticweb/#/yqmonitor/index/yqpage/edit?funId=2556619")
     pyautogui.hotkey("ctrl", "v")
     pyautogui.press("enter")
     time.sleep(3)
